@@ -25,7 +25,7 @@
 
 <br/>
 
-### My IDES:
+### My Toolbox:
 
 <p> 
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/></a> 
