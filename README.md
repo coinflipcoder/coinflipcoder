@@ -14,6 +14,8 @@
 
 <p> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+  <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
@@ -38,11 +40,9 @@
 
 <br/>
 
-<h3 align="left">Stats</h3>
-
-###
+### Stats:
 
 <div align="center">
-  <img src="https://private-vercel-api.vercel.app/api/index?username=s1lencio&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
-  <img src="https://private-vercel-api.vercel.app/api/top-langs/?username=s1lencio&layout=donut&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1lencio&langs_count=8&theme=github_dark&hide_border=true&layout=donut&hide_title=true" height="250" alt="stats graph" />
 </div>
