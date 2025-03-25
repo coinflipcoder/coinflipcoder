@@ -46,5 +46,5 @@
   <img height=200 align="center" src="https://silencio-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true" />
 </a>
 <a href="https://devlencio.net">
-  <img height=200 align="center" src="https://silencio-readme-stats.vercel.app/api/top-langs/?username=s1lencio&theme=github_dark&hide_border=true&layout=donut&hide_title=true" />
+  <img height=200 align="center" src="https://silencio-readme-stats.vercel.app/api/top-langs/?username=s1lencio&theme=github_dark&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats" />
 </a>
