@@ -1,12 +1,12 @@
 ### Heya, im Silencio
 
-#### I work from [insert any European country].
+#### I work from [anywhere].
 
-- 🔭 I’m currently working on [School ID](https://schoolid.de)
+- 🔭 I’m currently working on **[School ID](https://schoolid.de)**
 
-- 🌱 I’m currently learning **NestJS** and **NextJS**
+- 🌱 I’m currently learning **[Monaco](https://microsoft.github.io/monaco-editor)**
 
-- ⚡ Fun fact **You will never know exactly how much you have forgotten**
+- ⚡ Fun fact *You will never know exactly how much you have forgotten*
 
 <br/>
 
