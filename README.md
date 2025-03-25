@@ -43,6 +43,6 @@
 ### Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1lencio&langs_count=8&theme=github_dark&hide_border=true&layout=donut&hide_title=true" height="250" alt="stats graph" />
+  <img src="https://silencio-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true" height="250" alt="stats graph" />
+  <img src="https://silencio-readme-stats.vercel.app/api/top-langs/?username=s1lencio&langs_count=8&theme=github_dark&hide_border=true&layout=donut&hide_title=true" height="250" alt="stats graph" />
 </div>
