@@ -47,11 +47,11 @@
   <a href="https://devlencio.net">
   <picture>
   <source
-    srcset="https://silencio-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true"
+    srcset="https://coinflipcoder-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://silencio-readme-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true"
+    srcset="https://coinflipcoder-stats.vercel.app/api?username=s1lencio&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" />
@@ -60,7 +60,7 @@
 <a href="https://devlencio.net">
   <picture>
   <source
-    srcset="https://silencio-readme-stats.vercel.app/api/top-langs/?username=s1lencio&theme=github_dark&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats"
+    srcset="https://coinflipcoder-stats.vercel.app/api/top-langs/?username=s1lencio&theme=github_dark&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
