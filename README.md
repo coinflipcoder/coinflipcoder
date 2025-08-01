@@ -64,7 +64,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://silencio-readme-stats.vercel.app/api/top-langs/?username=coinflipcoder&theme=default&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats"
+    srcset="https://coinflipcoder-stats.vercel.app/api/top-langs/?username=coinflipcoder&theme=default&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=180 align="center" />
