@@ -44,7 +44,7 @@
 ### Stats:
 
 <div align="center">
-  <a href="https://devlencio.net">
+  <a href="https://coinflipcoder.dev">
   <picture>
   <source
     srcset="https://coinflipcoder-stats.vercel.app/api?username=coinflipcoder&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&hide_rank=true"
@@ -57,7 +57,7 @@
   <img height=200 align="center" />
 </picture>
 </a>
-<a href="https://devlencio.net">
+<a href="https://coinflipcoder.dev">
   <picture>
   <source
     srcset="https://coinflipcoder-stats.vercel.app/api/top-langs/?username=coinflipcoder&theme=github_dark&hide_border=true&layout=donut&hide_title=true&exclude_repo=readme-stats"
